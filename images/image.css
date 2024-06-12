@@ -1,0 +1,14 @@
+.gallery{
+    display:inline-block;
+    border: 1px solid #ccc;
+    margin: 5px;
+    width: 200px;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.desc{
+    padding: 10px;
+    text-align: center;
+}

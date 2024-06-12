@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+nav, ul {
+    list-style-type: none;
+    background-color: rgb(54, 51, 51);
+    overflow: hidden;
+}
+nav a{
+    text-decoration: none;
+    color: #fff;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+nav a:hover{
+    background-color: rgb(75, 66, 66);
+}
+nav li{
+    float: left;
+    position: relative;
+    left: 250px;
+}
